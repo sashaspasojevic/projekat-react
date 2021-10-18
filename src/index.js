@@ -6,9 +6,9 @@ import * as serviceWorker from "./serviceWorker";
 import { GithubProvider } from "./context/context";
 import { Auth0Provider } from "@auth0/auth0-react";
 
-// dev--shupf2v.us.auth0.com
+// dev-p9cstizt.eu.auth0.com
 
-// cv5V4TUZeZFjpbh3ldAl0GX56yLmJGmv;
+// QZFAHW1VnwLGme8Q5wcNy6a9vX0Vr1dd
 
 // ovi rade:
 
@@ -18,8 +18,8 @@ import { Auth0Provider } from "@auth0/auth0-react";
 ReactDOM.render(
   <React.StrictMode>
     <Auth0Provider
-      domain="dev-pu8wyk-g.us.auth0.com"
-      clientId="GYsVn60CkUU6fa4yiwpRrT1KVL5KuzPh"
+      domain="dev-p9cstizt.eu.auth0.com"
+      clientId="QZFAHW1VnwLGme8Q5wcNy6a9vX0Vr1dd"
       redirectUri={window.location.origin}
       cacheLocation="localstorage"
     >
