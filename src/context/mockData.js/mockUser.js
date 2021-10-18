@@ -1,0 +1,38 @@
+export default {
+  login: "sashaspasojevic",
+  id: 87978000,
+  node_id: "MDQ6VXNlcjg3OTc4MDAw",
+  avatar_url: "https://avatars.githubusercontent.com/u/87978000?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/sashaspasojevic",
+  html_url: "https://github.com/sashaspasojevic",
+  followers_url: "https://api.github.com/users/sashaspasojevic/followers",
+  following_url:
+    "https://api.github.com/users/sashaspasojevic/following{/other_user}",
+  gists_url: "https://api.github.com/users/sashaspasojevic/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/sashaspasojevic/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/sashaspasojevic/subscriptions",
+  organizations_url: "https://api.github.com/users/sashaspasojevic/orgs",
+  repos_url: "https://api.github.com/users/sashaspasojevic/repos",
+  events_url: "https://api.github.com/users/sashaspasojevic/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/sashaspasojevic/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Sasa Spasojevic",
+  company: null,
+  blog: "",
+  location: "Novi Sad",
+  email: null,
+  hireable: null,
+  bio: "Front-End Web Developer",
+  twitter_username: "spsjvcsasa",
+  public_repos: 12,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: "2021-07-26T10:58:46Z",
+  updated_at: "2021-10-11T19:50:24Z",
+};
