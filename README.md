@@ -18,6 +18,6 @@ Pokreće React
 Otvoriti http://localhost:3000/ u pretraživaču.
 
 Za logovanje na stranicu potrebno je:
-Registrovati se preko email-a, google naloga, ili twitter naloga
+Registrovati se preko email-a, google naloga, ili twitter naloga.
 
 Projekat postavit : https://projekat-react.netlify.app/
